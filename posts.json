@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6899e392231695f2a7b18773"
+  },
+  "title": "todo",
+  "content": "This is my first post",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6899e955231695f2a7b18775"
+  },
+  "title": "mohammed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6899ea20231695f2a7b18777"
+  },
+  "title": "mohammed",
+  "content": "This is my second post",
+  "__v": 0
+}]
